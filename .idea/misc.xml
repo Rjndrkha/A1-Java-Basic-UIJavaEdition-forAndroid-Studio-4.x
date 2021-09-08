@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android/BasicAppX/app/src/main/res/layout/activity_main.xml" value="0.14492753623188406" />
+        <entry key="..\:/Android/BasicAppX/app/src/main/res/drawable/cell_style.xml" value="0.1" />
+        <entry key="..\:/Android/BasicAppX/app/src/main/res/drawable/header_style.xml" value="0.1" />
+        <entry key="..\:/Android/BasicAppX/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
   </component>
