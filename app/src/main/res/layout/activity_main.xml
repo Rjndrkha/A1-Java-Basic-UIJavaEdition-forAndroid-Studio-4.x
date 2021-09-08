@@ -176,6 +176,17 @@
 
         </RadioGroup>
 
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="89dip"
+            android:layout_height="89dip"
+            android:layout_below="@id/radioGroup"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="11dip"
+            android:visibility="visible"
+            app:srcCompat="@drawable/temperature" />
+
+
 
 
 
