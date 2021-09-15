@@ -1,0 +1,2 @@
+# BasicAppX-A1
+DONE APLAS A1 POLINEMA
